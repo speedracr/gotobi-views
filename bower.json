@@ -1,0 +1,19 @@
+{
+  "name": "my_new_project",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation": "~5.5.2"
+  },
+  "authors": [
+    "Jonas Knipper <jonas@robocomobo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/bower_components",
+    "test",
+    "tests"
+  ]
+}
